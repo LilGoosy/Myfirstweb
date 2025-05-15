@@ -1,0 +1,29 @@
+/*Comments of css*/
+/*Types of selectors*/
+/*Basics*/
+
+/*Universal selector*/
+
+*{
+    background-color: rgb(243, 219, 194);
+
+}
+
+/*element selector*/
+h1, h2, p{
+    background-color: rgb(18, 156, 73);
+    color: antiquewhite;
+}
+/*selector ID*/
+#hero{
+    background-color: forestgreen;
+    color: rgb(175, 183, 20);
+}
+/*class selector*/
+
+.post{
+    font-family: monospace;
+    background-color: springgreen;
+    color: rgb(227, 96, 25);
+    padding: 5px;
+}
